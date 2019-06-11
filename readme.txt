@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 add one line context.
 1234
 creating a new branch is quick AND simple.
+424242423
 
